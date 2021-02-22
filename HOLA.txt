@@ -1,4 +1,8 @@
 HOLA
+<<<<<<< HEAD
 
 Adiós
 
+=======
+Buenah.
+>>>>>>> 2b6aa43c2158f8914fad84abcc6b07121c4c4bde
